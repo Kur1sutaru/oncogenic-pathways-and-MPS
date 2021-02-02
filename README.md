@@ -7,6 +7,8 @@ We use the requests python library to acess the data of several drug databases, 
 * GDSC <https://www.cancerrxgene.org/> 
 * DrugBank <https://go.drugbank.com/>
 
+We use the gene2drug package available at <https://academic.oup.com/bioinformatics/article/34/9/1498/4721786> to compare our results with the available drugs-to-pathway in this tool.
+
 We select several oncogenic pathways, according to our work available at <https://link.springer.com/chapter/10.1007%2F978-3-030-65775-8_24>
 
 Cite this paper as:
