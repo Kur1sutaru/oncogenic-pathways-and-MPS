@@ -6,6 +6,7 @@ We use the requests python library to acess the data of several drug databases, 
 * PanDrugs <https://www.pandrugs.org/#!/>
 * GDSC <https://www.cancerrxgene.org/> 
 * DrugBank <https://go.drugbank.com/>
+* PharmacoDB <>
 
 We use the gene2drug package available at <https://academic.oup.com/bioinformatics/article/34/9/1498/4721786> to compare our results with the available drugs-to-pathway in this tool.
 
