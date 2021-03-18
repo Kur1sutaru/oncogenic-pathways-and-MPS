@@ -12,7 +12,7 @@ We use the gene2drug package available at <https://academic.oup.com/bioinformati
 
 We select several oncogenic pathways, according to our work available at <https://link.springer.com/chapter/10.1007%2F978-3-030-65775-8_24>
 
-<img src= "./images/FLUXOGRAM-OMNIPATH-DRUGBANK.jpg">
+<img src= "images/FLUXOGRAM-OMNIPATH-DRUGBANK.jpg">
 
 Cite this paper as:
 Silva G.C.V., Soares L.D.F., Matte U. (2020) Oncogenic Signaling Pathways in Mucopolysaccharidoses. In: Setubal J.C., Silva W.M. (eds) Advances in Bioinformatics and Computational Biology. BSB 2020. Lecture Notes in Computer Science, vol 12558. Springer, Cham. https://doi.org/10.1007/978-3-030-65775-8_24
