@@ -2,11 +2,9 @@
 ## A systems biology work to discover drugs in common both in cancer and MPS diseases
 
 We use the requests python library to acess the data of several drug databases, like:
-* CTD <http://ctdbase.org/>
-* PanDrugs <https://www.pandrugs.org/#!/>
-* GDSC <https://www.cancerrxgene.org/> 
+* LINCS <https://lincsproject.org/LINCS/tools>
 * DrugBank <https://go.drugbank.com/>
-* PharmacoDB <https://pharmacodb.pmgenomics.ca/>
+
 
 We use the gene2drug package available at <https://academic.oup.com/bioinformatics/article/34/9/1498/4721786> to compare our results with the available drugs-to-pathway in this tool.
 
